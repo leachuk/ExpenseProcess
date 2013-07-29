@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?oracleBPM version="11.1.1.7.0.0.8" fileRevision="20120217"?>
+<processDocumentation xmlns="http://xmlns.oracle.com/bpm/taskMetadataService/processDocumentation">
+    <component name="ExpenseProcess">
+        <topicDocumentations>
+            <topicDocumentation name="ExpenseProcess">
+                <descriptions>
+                    <description locale="en">ExpenseProcess</description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT7245347071754">
+                <labels>
+                    <label locale="en">Manager Human Task</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT731205865103">
+                <labels>
+                    <label locale="en">Executive Alert Human Task</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT732325416895">
+                <labels>
+                    <label locale="en">Operations Support Human Task</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT7323268128723">
+                <labels>
+                    <label locale="en">BillingAndRenumerationHumanTask</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="EVT7245347071635">
+                <labels>
+                    <label locale="en">Start</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="EVT7245347071762">
+                <labels>
+                    <label locale="en">End</label>
+                </labels>
+            </topicDocumentation>
+            <topicDocumentation name="EVT7321660267418">
+                <labels>
+                    <label locale="en">TimerCatchEvent</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW7321154780927">
+                <labels>
+                    <label locale="en">ParallelGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW7321154411891">
+                <labels>
+                    <label locale="en">ComplexGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW7323522169170">
+                <labels>
+                    <label locale="en">ExclusiveGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW7323524194417">
+                <labels>
+                    <label locale="en">ExclusiveGateway1</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW7323531049087">
+                <labels>
+                    <label locale="en">ExclusiveGateway2</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf34"/>
+            <topicDocumentation name="sf51"/>
+            <topicDocumentation name="sf42"/>
+            <topicDocumentation name="sf43"/>
+            <topicDocumentation name="sf45"/>
+            <topicDocumentation name="sf47"/>
+            <topicDocumentation name="sf48"/>
+            <topicDocumentation name="sf40"/>
+            <topicDocumentation name="sf49"/>
+            <topicDocumentation name="sf50">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf52"/>
+            <topicDocumentation name="sf68">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf102">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf53"/>
+            <topicDocumentation name="sf104">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+        </topicDocumentations>
+    </component>
+</processDocumentation>

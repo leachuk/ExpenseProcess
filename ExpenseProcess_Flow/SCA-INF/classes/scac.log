@@ -1,0 +1,10 @@
+Jul 29, 2013 2:29:08 PM oracle.mds
+WARNING: The default CharSet MacRoman is not a unicode character set. File names with non-ASCII characters may not operate as expected. Check locale settings.
+Jul 29, 2013 2:29:08 PM oracle.mds
+NOTIFICATION: PManager instance is created without multitenancy support as JVM flag "oracle.multitenant.enabled" is not set to enable multitenancy support.
+Jul 29, 2013 2:29:09 PM oracle.security.jps.internal.config.xml.XmlConfigurationFactory initDefaultConfiguration
+SEVERE: java.io.FileNotFoundException: ./config/jps-config.xml (No such file or directory)
+Jul 29, 2013 2:29:09 PM oracle.mds
+NOTIFICATION: Auditing is disabled for component MDS.
+Jul 29, 2013 2:29:09 PM oracle.fabric.common.wsdl.SchemaManager isIncrementalBuildSupported
+INFO: XMLSchema incremental build enabled.

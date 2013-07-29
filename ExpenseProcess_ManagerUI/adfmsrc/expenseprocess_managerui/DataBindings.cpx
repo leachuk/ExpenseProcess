@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Application xmlns="http://xmlns.oracle.com/adfm/application"
+             version="11.1.1.64.93" id="DataBindings" SeparateXMLFiles="false"
+             Package="expenseprocess_managerui" ClientType="Generic">
+  <pageMap>
+    <page path="/taskDetails1.jspx"
+          usageId="expenseprocess_managerui_taskDetails1PageDef"/>
+  </pageMap>
+  <pageDefinitionUsages>
+    <page id="expenseprocess_managerui_taskDetails1PageDef"
+          path="expenseprocess_managerui.pageDefs.taskDetails1PageDef"/>
+  </pageDefinitionUsages>
+  <dataControlUsages>
+    <dc id="ExpenseProcess_ManagerUI_ManagerApproval_HumanTask"
+        path="expenseprocess_managerui.ExpenseProcess_ManagerUI_ManagerApproval_HumanTask"/>
+  </dataControlUsages>
+</Application>
